@@ -1,3 +1,7 @@
+## Version 1.1.2
+
+Fixed issues URL
+
 ## Version 1.1.1
 
 Adding json files for color swatches
